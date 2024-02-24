@@ -69,3 +69,5 @@ void PrintArray(string[] array)
     }
     Console.Write("] ");
 }
+console
+///Конец программы
